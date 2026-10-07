@@ -1,0 +1,2 @@
+Welcome to Devops Lab
+This is my first Git practical.
